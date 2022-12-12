@@ -9,4 +9,4 @@ The purpose of the "Quote Generator" is to bring light when anyone is feeling do
 <a href="#">Alisha Griffin</a>
 
 # Preview
-Quote Generator Preview.jpeg
+![image](https://user-images.githubusercontent.com/111026797/207154253-6b01dfa2-b11d-4bfd-99a6-8b1ddc9abfbf.png)
